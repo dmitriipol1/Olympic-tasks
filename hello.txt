@@ -1,5 +1,0 @@
-print ("hello world;")
-print ("hello every;")
-print ("Hello;")
-print ("Hello my dear friend;")
-print ("next hello;")
